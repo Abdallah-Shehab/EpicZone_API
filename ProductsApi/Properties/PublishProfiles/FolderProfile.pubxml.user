@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Epic_API</_PublishTargetUrl>
+    <History>False|2024-05-08T11:56:03.2159326Z;False|2024-05-08T14:55:15.1399628+03:00;False|2024-05-08T14:53:40.7098247+03:00;False|2024-05-08T14:51:45.2874368+03:00;False|2024-05-08T14:50:49.1457808+03:00;False|2024-05-08T14:50:21.0833886+03:00;True|2024-05-05T22:49:59.5267350+03:00;True|2024-05-05T22:34:51.0572090+03:00;True|2024-05-05T21:20:43.3299982+03:00;True|2024-05-03T23:47:10.0430912+03:00;True|2024-05-02T20:57:58.4772026+03:00;False|2024-05-02T20:56:21.2861400+03:00;False|2024-05-02T20:55:44.3222187+03:00;False|2024-05-02T20:55:10.5942910+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
